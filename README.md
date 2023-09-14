@@ -1,16 +1,52 @@
-### Hi there 👋
+# Привет, я Android разработчик 👋
 
-<!--
-**Zelimkhan-Magomadov/Zelimkhan-Magomadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Зелимхан, мне 23 и я андроид программист.
 
-Here are some ideas to get you started:
+## Мой девиз:
+**Покажи мне свой код, и я скажу тебе кто ты.** 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мой стек технологий 🛠️
+
+### Языки программирования
+- Kotlin
+- Java
+- C
+
+### Архитектуры
+- Clean Architecture
+- MVVM (Model-View-ViewModel)
+- MVI (Model-View-Intent)
+
+### Технологии
+- Linux
+- Navigation Component
+- Room
+- Git
+- Retrofit
+- Gson
+- Single Activity
+- ООП (Объектно-Ориентированное Программирование)
+
+### Базы данных
+- SQL
+- MongoDB
+
+### Сетевые технологии
+- REST API
+- Ktor
+- WebSockets
+- Sockets
+
+### Библиотеки и фреймворки
+- Dagger-Hilt
+- Android Jetpack
+- Android SDK
+- Coroutines
+- Jetpack Compose
+- Kotlin Serialization
+
+## Связь со мной 📫
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/android_kotlin_programmer)
+[![Email](https://img.shields.io/badge/Gmail-red?style=social&logo=gmail)](mailto:zelimkhan.m21@gmail.com)
+
+Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы или предложения о сотрудничестве. Буду рад пообщаться! 😊
