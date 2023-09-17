@@ -48,5 +48,3 @@
 ## Связь со мной 📫
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/android_kotlin_programmer)
 [![Email](https://img.shields.io/badge/Gmail-red?style=social&logo=gmail)](mailto:zelimkhan.m21@gmail.com)
-
-Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы или предложения о сотрудничестве. Буду рад пообщаться! 😊
